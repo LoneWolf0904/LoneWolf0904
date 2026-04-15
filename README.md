@@ -18,6 +18,7 @@ Currently, I am expanding my portfolio with real-world commercial data projects 
 * **Objective:** Cleaned, manipulated, and analyzed 2,000+ rows of commercial retail data to identify peak shopping hours and category performance for inventory strategy.
 * **Tech Stack:** PostgreSQL, Tableau
 * **Highlights:** Utilized Mean Imputation for missing demographic data, built complex `CASE` statements to categorize time-series data, and delivered a fully interactive executive dashboard.
+* [👉 View the Full Project Here](https://github.com/LoneWolf0904/Retail-Sales-Analysis)
 
 **2. 🇬🇧 London Airbnb Price Predictor**
 * **Objective:** Developed a full-scale Machine Learning pipeline to predict the nightly price of short-term rentals across London's boroughs, extracting actionable real estate insights from a messy dataset of over 80,000 listings.
