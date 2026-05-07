@@ -33,6 +33,12 @@ Currently, I am expanding my portfolio with real-world commercial data projects 
 * **The Visuals:** Developed an interactive, dark-mode Power BI executive dashboard to visualize platform dominance, dynamic Top-10 leaderboards, and audio feature regression analysis.
 * [👉 View the Full Project Here](https://github.com/LoneWolf0904/Spotify-Advanced-SQL-Pipeline)
 
+**4. ⚽ Identifying the Next Mo Salah: Statistical Similarity Model 🚧 *(Active Development)***
+* **Objective:** Developing an unsupervised machine learning pipeline to identify data-driven replacements for Mohamed Salah using per-90 metrics from Europe's top 5 leagues.
+* **Tech Stack:** `Python`, `Pandas`, `Scikit-Learn`, `mplsoccer`
+* **Highlights:** Actively building a statistical framework utilizing **Cosine Similarity** for player ranking and **KMeans Clustering** to define tactical archetypes, mirroring elite football recruitment workflows.
+* 👉 [View the Active Repository Here](https://github.com/LoneWolf0904/Mo-Salah-Replacement-Model)
+
 ### 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/neelbathija](https://www.linkedin.com/in/neelbathija)
 * **Email:** neelbathija0904@gmail.com
