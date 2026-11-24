@@ -1,45 +1,32 @@
-### Hi there, I'm Neel Bathija 👋
+# Hi, I'm Neel Bathija
 
-📊 **Junior Data Scientist | Python | SQL | Machine Learning**
+**Graduate Software & AI Engineer** based in Bournemouth, UK. I build AI and data systems end to end, and I'm looking for entry-level AI, software or data engineering roles in the UK.
 
-I am a data enthusiast with a BSc (Hons) in Games Software Engineering, transitioning my strong background in complex algorithms and C++ into Data Science and Machine Learning. I am passionate about finding the hidden stories inside messy datasets, building ETL pipelines, and creating predictive models that drive clear, user-focused business decisions. 
+## What I'm building
 
-Currently, I am expanding my portfolio with real-world commercial data projects and pursuing the IBM Data Science Professional Certificate.
+**AI shopping assistant for a live e-commerce store** (in production since Oct 2026). A read-only assistant that answers from the store's live catalogue and policy pages, in English and Hinglish. Claude Haiku calls a product-search tool over the WooCommerce Store API. A Cloudflare Worker handles rate limiting and redacted chat logging in D1, a WordPress plugin embeds the widget, and a 79-case regression suite runs before every deploy. 415 conversations in the first 23 days at under 2 cents each. Full write-up on [LinkedIn](https://www.linkedin.com/in/neelbathija).
 
-### 🛠️ Technical Arsenal
-* **Languages:** `Python`, `SQL`, `C++`, `C#`
-* **Data & ML Libraries:** `Pandas`, `NumPy`, `Scikit-Learn`, `PyTorch`, `Hugging Face`
-* **Data Visualization:** `Tableau`, `PowerBI`, `Matplotlib`, `Seaborn`, `Plotly`
-* **Methodologies:** `ETL Pipelines`, `Predictive Modelling (Supervised/Unsupervised)`, `Statistical Analysis`, `Agile/Scrum`
+**Dual-Brain: self-hosted dual-model LLM platform.** DeepSeek-R1 8B and Qwen2.5 7B on Ollama, RAG with AnythingLLM and LanceDB, SearXNG for private web search, all in Docker. Documented in a technical white paper (featured on my LinkedIn). The repo is private while I clean it up.
 
-### 🚀 Featured Portfolio Projects
+**[matchday-llmops](https://github.com/LoneWolf0904/matchday-llmops)** (in progress). A football RAG assistant, built in public to learn LLMOps: tracing, eval-gated CI/CD and AWS deployment. Phase 0 is done.
 
-**1. Retail Sales Executive Dashboard & Analysis**
-* **Objective:** Cleaned, manipulated, and analyzed 2,000+ rows of commercial retail data to identify peak shopping hours and category performance for inventory strategy.
-* **Tech Stack:** `PostgreSQL`, `Tableau`
-* **Highlights:** Utilized Mean Imputation for missing demographic data, built complex `CASE` statements to categorize time-series data, and delivered a fully interactive executive dashboard.
-* [👉 View the Full Project Here](https://github.com/LoneWolf0904/Retail-Sales-Analysis)
+## Data projects
 
-**2. 🇬🇧 London Airbnb Price Predictor**
-* **Objective:** Developed a full-scale Machine Learning pipeline to predict the nightly price of short-term rentals across London's boroughs, extracting actionable real estate insights from a messy dataset of over 80,000 listings.
-* **Tech Stack:** `Python`, `Pandas`, `Scikit-Learn`, `Plotly`
-* **Highlights:** Engineered geospatial data (GPS coordinates) to build interactive choropleth maps, and deployed `GridSearchCV` to push a Random Forest Regressor algorithm to its absolute mathematical data ceiling (~67% accuracy).
-* [👉 View the Full Project Here](https://github.com/LoneWolf0904/london-airbnb-price-predictor)
+- **[Retail Sales Analysis](https://github.com/LoneWolf0904/Retail-Sales-Analysis):** PostgreSQL and Tableau. Evening trading drove £572k, more than the morning and afternoon shifts combined.
+- **[London Airbnb Price Predictor](https://github.com/LoneWolf0904/London-Airbnb-Price-Predictor):** regression pipeline over 80,000+ listings, Random Forest tuned with GridSearchCV.
+- **[Spotify SQL & BI Pipeline](https://github.com/LoneWolf0904/Spotify-Advanced-SQL-Pipeline):** PostgreSQL CTEs and window functions over 20,000+ records, with a Power BI dashboard.
+- **[Neural Network Fundamentals](https://github.com/LoneWolf0904/Neural-Network-Fundamentals):** a neural network built from scratch in NumPy, plus a Stable Diffusion notebook.
 
-**3. 🎵 [Spotify Advanced SQL & BI Pipeline]**
-* **Tech Stack:** `PostgreSQL` `Advanced SQL` `Power BI` 
-* **The Mission:** Engineered an end-to-end ETL and analytics pipeline to process and analyze 20,000+ global streaming records.
-* **The Execution:** Authored complex SQL queries utilizing **CTEs** and **Window Functions** (`DENSE_RANK`, `PARTITION BY`) for advanced row-level calculations.
-* **The Visuals:** Developed an interactive, dark-mode Power BI executive dashboard to visualize platform dominance, dynamic Top-10 leaderboards, and audio feature regression analysis.
-* [👉 View the Full Project Here](https://github.com/LoneWolf0904/Spotify-Advanced-SQL-Pipeline)
+## Skills
 
-**4. ⚽ Identifying the Next Mo Salah: Statistical Similarity Model 🚧 *(Active Development)***
-* **Objective:** Developing an unsupervised machine learning pipeline to identify data-driven replacements for Mohamed Salah using per-90 metrics from Europe's top 5 leagues.
-* **Tech Stack:** `Python`, `Pandas`, `Scikit-Learn`, `mplsoccer`
-* **Highlights:** Actively building a statistical framework utilizing **Cosine Similarity** for player ranking and **KMeans Clustering** to define tactical archetypes, mirroring elite football recruitment workflows.
-* 👉 [View the Active Repository Here](https://github.com/LoneWolf0904/Mo-Salah-Replacement-Model)
+- **Languages:** Python, SQL, C++, C#
+- **AI:** LLM APIs, RAG, prompt engineering, evaluation suites, Ollama, LanceDB, PyTorch, Hugging Face, Agentic AI
+- **Data & tools:** PostgreSQL, Pandas, scikit-learn, Docker, Git, Tableau, Power BI, Cloudflare Workers, WooCommerce
 
-### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/neelbathija](https://www.linkedin.com/in/neelbathija)
-* **Email:** neelbathija0904@gmail.com
-* **Location:** Bournemouth, UK (Open to Relocation)
+## Background
+
+BSc (Hons) Games Software Engineering, Bournemouth University (2:1). Game engines and gameplay systems in C++ and Unreal Engine.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/neelbathija) · neelbathija0904@gmail.com
